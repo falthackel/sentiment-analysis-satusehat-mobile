@@ -1,2 +1,2 @@
 # sentiment-analysis-satusehat-mobile
-This is self-project to analyse user sentiment to SATUSEHAT Mobile using Google Play Store review
+This is self-project to analyse user sentiment to SATUSEHAT Mobile using reviews from Google Play Store. SATUSEHAT Mobile is a public health application with various health features and services whose data is sourced and integrated with the SATUSEHAT Platform. SATUSEHAT is a national digital health ecosystem to make it easier for people to access health data and manage personal health independently.
